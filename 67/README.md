@@ -1,0 +1,4 @@
+## Pluggin Logger
+Vuex: ✅✅
+
+Pinia: ⛔⛔
